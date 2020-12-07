@@ -50,7 +50,7 @@
                     </h1>
                     <p class="panel-cover__subtitle panel-subtitle iUp">I Can Do It</p>
                     <hr class="panel-cover__divider iUp" />
-                    <p id="description" class="panel-cover__description iUp">Hello World!
+                    <p id="description" class="panel-cover__description iUp">Hello world!
                         <br/>
                         <strong>-「ROBOT」</strong>
                     </p>
